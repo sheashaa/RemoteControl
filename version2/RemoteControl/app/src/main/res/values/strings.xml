@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Control Application</string>
+    <string name="turn_on">Turn ON</string>
+    <string name="turn_off">Turn OFF</string>
+    <string name="tv1">Press one of the buttons</string>
+    <string name="tv2">Enter bluetooth module MAC address</string>
+    <string name="et1">Bluetooth MAC Address</string>
+</resources>
